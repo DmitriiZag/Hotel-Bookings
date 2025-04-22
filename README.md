@@ -1,6 +1,6 @@
 # Hotel Booking Cancellation Prediction
 
-🎯 Goal: Predict whether a hotel booking will be canceled based on customer and booking features.
+Goal: Predict whether a hotel booking will be canceled based on customer and booking features.
 
 ## Dataset
 - Source: [Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
